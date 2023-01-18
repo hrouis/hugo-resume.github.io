@@ -8,11 +8,8 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Senior Software Engineer
 # your company information
-company:
-  name: Example Co.
-  url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
@@ -26,11 +23,11 @@ summary: 'I am a passionate software engineer with x years of working experience
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "haythem.rouis@gmail.com"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/hrouis"
 
 - name: Stackoverflow
   icon: "fab fa-stack-overflow"

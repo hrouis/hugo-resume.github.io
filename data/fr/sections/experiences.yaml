@@ -11,54 +11,62 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Deveryware
+    url: "https://deveryware.com"
+    location: Paris
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Deveryware est l'expert français des technologies d'investigation et des services pour la sécurité globale.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Ingénieur Développement Sénior
+    start: Mai 2017
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Architecture technique
+    - Conception et implémentation d'une solution d'analyse de fichiers de communications
+    - Conception et implémentation d'un outil de benchmark.
+    - Développement et maintenance de la solution de géolocalisation des mobiles et balises.
+    - Revue du code de l'équipe
+    - Implémentation des scripts de déploiement de la solution dans l'ensemble des environnements.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: BNP Paribas Personal Finance
+    url: "https://personal-finance.bnpparibas"
+    location: Suresnes
+    overview: BNP Paribas PF est un leader du financement aux particuliers en Europe au travers de son offre de crédits à la consommation.
   positions:
-  - designation: Software Engineer
-    start: March 2016
+  - designation: Ingénieur Développement Sénior
+    start: Juin 2015
     end: May 2017
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Conception fonctionnelle/ technique du service de composition FIPEN pour les crédits automobiles 
+    - Conception et implémentation du service de relance des prospects.
+    - Suivi et validation technique des développements
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: EDF
+    url: "https://www.edf.fr/groupe-edf/edf-en-bref/optimisation-et-trading"
+    location: Ingénieur Etude et Développement
+    overview: EDF Trading prévoit prévoit la demande énergétique et effectue les arbitrages nécessaires entre les ressources disponibles pour la satisfaire.
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Ingénieur Etude et Développement
+    start: Mars 2014
+    end: Juin 2015
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Coneception et implémentation d'une solution d'optimisation des coûts de production énergétique
+    - Revue du code
+
+- company:
+    name: Bouygues Telecom
+    url: "https://www.bouyguestelecom.fr/"
+    location: Ingénieur Etude et Développement
+    overview: ISIS est une plateforme d'intégration de services (SDP) faisant le lien entre des plateformes réseau, services, le Système d'Information, et des partenaires extérieurs.
+  positions:
+  - designation: Ingénieur Etude et Développement
+    start: Septembre 2012
+    end: Mars 2014
+    responsibilities:
+    - Coneception et implémentation des services de gestion des SMS / micropaiement
+    - Test, packaging et livraison
