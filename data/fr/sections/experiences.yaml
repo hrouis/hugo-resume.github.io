@@ -68,5 +68,20 @@ experiences:
     start: Septembre 2012
     end: Mars 2014
     responsibilities:
-    - Coneception et implémentation des services de gestion des SMS / micropaiement
+    - Conception et implémentation des services de gestion des SMS / micropaiement
+    - Test, packaging et livraison
+
+- company:
+    name: Vermeg
+    url: "https://www.bouyguestelecom.fr/"
+    location: Ingénieur Etude et Développement
+    overview:  Vermeg Palmyra est une plateforme qui sert à générer des applications financières se basants sur des descriptions métiers.
+  positions:
+  - designation: Ingénieur Etude et Développement
+    start: Février 2010
+    end: Août 2012
+    responsibilities:
+    - Conception et implémentation des générateurs de code
+    - Conception et implémentation du générateur de rapports financiers
+    - Conception et implémentation des connecteurs de formats XML, XLS
     - Test, packaging et livraison
