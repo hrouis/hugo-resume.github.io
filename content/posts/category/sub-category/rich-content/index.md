@@ -21,7 +21,7 @@ This sample post tests the followings:
 
 ### Image Sample
 
-{{< img src="/posts/category/sub-category/rich-content/images/forest.jpg" align="center" title="Forest">}}
+{{< figure src="/posts/category/sub-category/rich-content/images/forest.jpg" align="center" title="Forest">}}
 
 {{< vs >}}
 
